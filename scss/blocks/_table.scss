@@ -1,0 +1,10 @@
+.table{
+  border-collapse: collapse;
+  margin: 100px auto;
+}
+
+.table__heading, .table__data{
+  padding: 20px;
+  text-align: center;
+  border: 1px solid black;
+}
